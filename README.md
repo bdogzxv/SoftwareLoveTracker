@@ -10,7 +10,7 @@ Many of these sources as of currently are taken from sources biased against thos
 
 ## Software List
 
-### Software for Diversity
+### Software for Diversity 🌈
 
 The following software projects, software foundations, &amp; corporations have made statements (or taken actions) that express support for those identifying with the LGBTQ+ community.
 
