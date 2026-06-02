@@ -14,7 +14,7 @@ And finally, all of this list is done in good faith. None of this is intended to
 
 ### Software for Diversity 🌈
 
-The following software projects, software foundations, &amp; corporations have made statements (or taken actions) that express support for those identifying with the LGBTQ+ community.
+The following software projects, software foundations, &amp; corporations have made statements (or taken actions) that express support for minority groups.
 
 | &nbsp;       | Software             | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------ | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ The following software projects, foundations, &amp; corporations have made state
 
 ### Gray Area 🔘
 
-The following software projects, foundations, &amp; corporations have made statements (or taken actions) that are controversial concerning addressing relevant issues regarding discrimination, violence, and prejudice, but cannot be declared as "Not for Diversity" due to a lack of sufficient evidence.
+The following software projects, foundations, &amp; corporations have made statements (or taken actions) that are controversial concerning relevant issues (such as discrimination, violence, and prejudice), but cannot be declared as "Not for Diversity" due to a lack of sufficient evidence.
 
 |     | Software          | Notes                                                                                                                                                                                                  |
 | --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
