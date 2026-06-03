@@ -29,8 +29,7 @@ The following software projects, software foundations, &amp; corporations have m
 | ➡️  | **Fedora** | [Celebrates Pride Month](https://fosstodon.org/@fedora/112541843730183245), [Presents with a dedicated DEI team](https://docs.fedoraproject.org/en-US/dei/) |
 | ➡️  | **Bazaar** | [Includes optional LGBT Theming in Software](https://github.com/bazaar-org/bazaar/pull/742) |
 | ➡️  | **elementaryOS** | [Openly expresses that supporters of Project 2025 are fascist](https://x.com/LundukeJournal/status/1962669374331895901), [Celebrates Pride Month](https://blog.elementary.io/updates-for-june-2024/) |
-| ➡️  | **Debian** | [Blocks Conservative projects, calls devs "Nazis"](https://x.com/LundukeJournal/status/1974179530245124214), [Prominent contributor defaced "Conservative" project wiki, calling them "Nazis"](https://x.com/LundukeJournal/status/1942269768192737511) |
-| ➡️  | **Bazzite** | [Official mascot is LGBT](https://x.com/bazzite_gg/status/1887913668182163478), [distro itself comes with several minority-themed logos, such as BLM](https://github.com/ublue-os/bazzite/tree/main/press_kit/logo_variants) |
+| ➡️  | **Bazzite** | [Official mascot is LGBT](https://x.com/bazzite_gg/status/1887913668182163478),[distro itself comes with several minority-themed logos, such as BLM](https://github.com/ublue-os/bazzite/tree/main/press_kit/logo_variants) |
 | ➡️  | **Chimera Linux** | [Dev jokes: "Here to Further Woke Agenda by Turning Free Software Gay"](https://gts.chimera-linux.org/@chimera/statuses/01JZ09G0ECDFRFX9J3ME0WRFX1) |
 | ➡️  | **Godot** | [Embroiled in controversy over mass banning of those against their #Wokot tweet](https://www.youtube.com/watch?v=RqPrFmESFxc) |
 | ➡️  | **openSUSE** | [Leadership expresses anger towards contributors against LGBT-branding](https://lunduke.locals.com/post/5815715/dont-wave-the-lgbt-flag-suse-opensuse-says-you-are-rotten-flesh) |
