@@ -79,10 +79,11 @@ The following software projects, foundations, &amp; corporations have made state
 
 |     | Software          | Notes                                                                                                                                                                                                  |
 | --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ➡️  | **Omarchy Linux** | [Aggressively refuses to implement a code of conduct](https://github.com/basecamp/omarchy/issues/1913)                                                                                                 |
+| ➡️  | **Omarchy Linux** | [Aggressively refuses to implement a code of conduct](https://github.com/basecamp/omarchy/issues/1913)                                                                                       |
 | ➡️  | **Proton**        | [CEO expressed support for a Trump adminstration official, then backpedaled after backlash](https://www.reddit.com/r/ProtonMail/comments/1i2nz9v/on_politics_and_proton_a_message_from_andy/)                                                                                                                                                         
 | ➡️  | **SQLite**        | [Code of conduct explicitly says to "Love the Lord God"](https://sqlite.org/codeofethics.html)                                                                                                         |
 | ➡️  | **XLibre**        | [Explicitly rejects DEI, calling it a discriminatory policy, while attaching the statement with transgender advertising and verbosely stating acceptance for all](https://github.com/X11Libre/xserver) |
+| ➡️  | **Windscribe**    | [Called a user defending trans rights "mentally ill"](https://x.com/windscribecom/status/1991176084662964688), [but then clarified that trans people have a right to exist](https://x.com/windscribecom/status/1991251898704244900) |
 
 ### Misconceptions ❌
 
@@ -91,6 +92,7 @@ The following software projects, foundations &amp; corporations have been embroi
 |     | Software         | Notes                                                                                          |
 | --- | ---------------- | ---------------------------------------------------------------------------------------------- |
 | ➡️  | **Deuvuan**      | [Maintains an apolitical stance](https://dev1galaxy.org/viewtopic.php?id=17)                   |
+| ➡️  | **iVPN**         | [Maintains an apolitical stance](https://mastodon.social/@ivpn/116824201197345747)             |
 | ➡️  | **OpenMandriva** | [Holds no official political comment](https://forum.openmandriva.org/t/lunduke-sent-me/6635/2) |
 
 # Want to Suggest Changes or Additions?
